@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, DSA, and Node JS**
 
-- 📝 I regularly write articles on [asav.me](asav.me)
+- 📝 I regularly write articles on [advik.uk](advik.uk)
 
 - 📫 How to reach me **asv@duck.com**
 
